@@ -1,22 +1,14 @@
-@cheeaun's life
+@khayuen's life
 ===============
 
-- 20/06/1985 Born
-- 1991 Kindergarten
-- 1992-1997 Primary school - SKSJ
-- 1998-2000 Secondary school - SMKTI
-- ~2000 First computer
-- 2001-2002 Secondary school - SMKDOB
-- 04/11/2002 Phoenity is born
-- 2003-2004 Secondary school (Form 6) - SMKDOB
-- 01/2005-03/2005 First (non-technical) job
-- 08/2005-08/2008 University - UTAR
-- 11/2005 Dead hard drive of first computer
-- 07/2006-05/2007 CSS Web Designer - MindValley
-- 18/12/2006 First tweet
-- 04/2007 First laptop (HP)
-- 06/2008-07/2009 Web Developer - ZoeCity
-- 24/08/2009-26/06/2013 Front-End Developer - Wego
-- 07/2010 Second laptop (Dell)
-- 04/03/2012 HackerWeb featured on Hacker News' front page
-- 01/07/2013-~ Software Engineer - Viki
+- 01/02/1990 Born
+- 1994-1996 Kindergarten
+- 1997-2002 Primary school - Yak Chee
+- 2003-2007 High School at Chong Hwa Independent High School
+- 2008 Pre-U at Sunway University College
+- 2009-2011 Bachelor at Taylor University College
+- 06/2011-06/2012 Bachelor at RMIT
+- 11/2012-04/2013 Software Engineer at Myebills 
+- 11/2011-03/2012 Internship at Myebills
+- 01/2010-03/2010 Internship at Evoxen
+- 06/2013-~ Web Developer at Wego
